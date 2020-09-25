@@ -6,7 +6,7 @@ A guide for MotherVR using Mouse and Keyboard on SteamVR
 4. Run the game without SteamVR. There will be a message that pops up, ignore it.
 5. Main Menu -> Options -> MotherVR -> Render -> SteamVR. This will close the game.
 6. Right click Alien in steam and go to properties and check off "Use Desktop Game Theatre while SteamVR is active"
-7. Open SteamVR and make sure both of your controllers are on and visible to your Vive (like right in front of you next to your keyboard).
+7. Open SteamVR and make sure your controllers are off or in front of you.
 8. Open Alien. You should be good to go.
 
 
