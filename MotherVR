@@ -11,3 +11,4 @@ A guide for MotherVR using Mouse and Keyboard on SteamVR
 
 
 The main problem is the controller thing. Turns out if you have one controller not visible to the headset, the game keeps resetting to the controller scheme every game tick or something like that. Makes it near impossible to play without the controller.
+Nibre, please release source.
