@@ -1,0 +1,13 @@
+A guide for MotherVR using Mouse and Keyboard on SteamVR
+
+1. Download MotherVR 0.8
+2. Run Alien: Isolation (AI) at least once.
+3. Drop the .dll from MotherVR into the main Alien folder.
+4. Run the game without SteamVR. There will be a message that pops up, ignore it.
+5. Main Menu -> Options -> MotherVR -> Render -> SteamVR. This will close the game.
+6. Right click Alien in steam and go to properties and check off "Use Desktop Game Theatre while SteamVR is active"
+7. Open SteamVR and make sure both of your controllers are on and visible to your Vive (like right in front of you next to your keyboard).
+8. Open Alien. You should be good to go.
+
+
+The main problem is the controller thing. Turns out if you have one controller not visible to the headset, the game keeps resetting to the controller scheme every game tick or something like that. Makes it near impossible to play without the controller.
